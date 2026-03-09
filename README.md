@@ -27,7 +27,7 @@ O projeto foi desenvolvido em Python, utilizando um ambiente de Jupyter Notebook
 
 ## 👥 Autores
 
-| [<img src="https://github.com/jaum36.png?size=100" width=100><br><sub>João Victor</sub>](https://github.com/jaum36) | [<img src="https://github.com/yagof.png?size=100" width=100><br><sub>Yago Feitoza</sub>](https://github.com/yagof) |
+| [<img src="https://github.com/jaum36.png?size=100" width=100><br><sub>João Victor</sub>](https://github.com/jaum36) | [<img src="https://github.com/yagofeitoza19.png?size=100" width=100><br><sub>Yago Feitoza</sub>](https://github.com/yagofeitoza19) |
 | :---: | :---: |
 
 ## 👩‍🏫 Orientação
